@@ -1,1 +1,1 @@
-# Kurgusal-sisteme
+# Wordpress Kısa Kod

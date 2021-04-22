@@ -1,0 +1,17 @@
+.box {
+    clear: both;
+    padding: 20px;
+    background-color: #fdfdfd;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+    text-shadow: 0 1px 1px #fff;
+}
+.box.note.sari{
+    background: #fffddb;
+    border-color: #E9E59E;
+    color: #756f00;
+    border:1px dashed  #E9E59E;
+}
+.box-inner-block {
+    min-height: 30px;
+}
